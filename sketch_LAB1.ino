@@ -17,7 +17,7 @@ bool ConteoDisplay = true;
 int contador = 0; // Contador en el Display
 int Contadordereseteo = 0;
 
-//        a  b  c  d  e  f  g
+// a  b  c  d  e  f  g
 byte numeros[10][7] = {
   {1, 1, 1, 1, 1, 1, 0}, // 0
   {0, 1, 1, 0, 0, 0, 0}, // 1
